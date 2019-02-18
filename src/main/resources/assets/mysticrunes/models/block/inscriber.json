@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "mysticrunes:blocks/inscriber",
+    "down": "mysticrunes:blocks/inscriber_top",
+    "up": "mysticrunes:blocks/inscriber_top",
+    "east": "mysticrunes:blocks/inscriber",
+    "west": "mysticrunes:blocks/inscriber",
+    "north": "mysticrunes:blocks/inscriber_front",
+    "south": "mysticrunes:blocks/inscriber"
+  }
+}

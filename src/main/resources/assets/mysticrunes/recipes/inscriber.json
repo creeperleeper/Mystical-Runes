@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "cbc",
+    "sss"
+  ],
+
+  "key": {
+    "b": {
+      "item": "minecraft:crafting_table"
+    },
+    "c": {
+          "item": "minecraft:stone_slab",
+          "data": 5
+    },
+    "s": {
+          "item": "minecraft:stonebrick",
+          "data": 0
+         }
+  },
+  "result": {
+    "item": "mysticrunes:inscriber",
+    "count": 1
+  }
+}

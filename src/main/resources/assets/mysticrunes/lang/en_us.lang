@@ -1,0 +1,8 @@
+//Blocks
+tile.mysticrunes.inscriber.name=Runic Inscriber
+
+//Items
+item.mysticrunes.slate.name=Blank Slate
+
+//CreativeTab
+itemGroup.mysticrunes=Mystical Runes
